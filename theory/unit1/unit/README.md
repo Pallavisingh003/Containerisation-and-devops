@@ -1,4 +1,4 @@
-# LECTURE-01
+# LECTURE THEORY
 
 ## 1. Docker Basics
 
