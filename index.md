@@ -1,6 +1,13 @@
 # Containerisation and DevOps Lab
 
-Welcome to my lab experiments website.
+## 👩‍🎓 Student Information
+
+| Field | Details |
+|------|---------|
+| **Name** | Pallavi Singh |
+| **SAP ID** | 500119176 |
+| **Semester** | 6 |
+| **Course** | Containerisation & DevOps |
 
 ## Experiments
 
