@@ -603,6 +603,7 @@ docker build -t java-app:2.0 .
 - Final image contains only the compiled binary
 
 This removes build tools and reduces image size dramatically.
+
 <img width="574" height="73" alt="Screenshot 2026-02-11 at 11 33 44 AM" src="https://github.com/user-attachments/assets/bfe8c06b-c4d7-4601-972c-4c88103caf50" />
 <img width="564" height="150" alt="Screenshot 2026-02-11 at 11 34 08 AM" src="https://github.com/user-attachments/assets/183ae3f2-04a3-48be-8dca-f4ee2a7e54da" />
 <img width="567" height="201" alt="Screenshot 2026-02-11 at 11 34 39 AM" src="https://github.com/user-attachments/assets/34d181f5-9ba6-4f3e-a173-e96cab7aca77" />
@@ -610,17 +611,20 @@ This removes build tools and reduces image size dramatically.
 ## Build
 
 docker build -t multistage-hello .
+
 <img width="763" height="368" alt="Screenshot 2026-02-11 at 11 39 56 AM" src="https://github.com/user-attachments/assets/8f14a40c-6202-4642-8398-26a8c24aae5c" />
 
 
 ## Run
 
 docker run multistage-hello
+
 <img width="579" height="42" alt="Screenshot 2026-02-11 at 11 37 11 AM" src="https://github.com/user-attachments/assets/db7a2678-188f-4f51-bbc3-f1503ac4dc99" />
 
 ## Output
 
 Hello from Multistage Docker!
+
 <img width="579" height="42" alt="Screenshot 2026-02-11 at 11 37 11 AM" src="https://github.com/user-attachments/assets/821271fb-d857-4166-87a1-27238a0ecd38" />
 
 <img width="775" height="322" alt="Screenshot 2026-02-11 at 11 38 12 AM" src="https://github.com/user-attachments/assets/94ded3a6-bc4b-46aa-a441-772658ee6aca" />
@@ -631,6 +635,7 @@ Hello from Multistage Docker!
 - No build dependencies in final container
 - Improved security
 - Clean separation of build and runtime
+  
 <img width="676" height="241" alt="Screenshot 2026-02-11 at 11 39 23 AM" src="https://github.com/user-attachments/assets/c47ac647-900d-4496-985f-ab7b720ddbce" />
 
 - Final Output
