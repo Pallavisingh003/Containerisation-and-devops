@@ -1,4 +1,4 @@
-<img width="779" height="366" alt="Screenshot 2026-02-11 at 11 35 11 AM" src="https://github.com/user-attachments/assets/70c0ed70-66d1-4bc9-8018-6fe01f2a0291" /># LECTURE THEORY
+# LECTURE THEORY
 
 ##### Name: Pallavi Singh
 ##### Sap Id: 500119176
